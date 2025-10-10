@@ -62,20 +62,13 @@ This is a fully responsive, scroll-driven 3D product showcase website inspired b
 
 ## 🔍 Preview
 
-![Scroll Animation](./public/scroll-preview.jpg)
-*Scroll-based animation and MacBook showcase section*
-
----
-
-
----
+<!-- ![Scroll Animation](./public/scroll-preview.jpg)
+*Scroll-based animation and MacBook showcase section* -->
 
 ## 📦 Getting Started
 
 ### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/3d-product-showcase.git
+git clone https://github.com/gideonabe/macbook_gsap_landing
 cd 3d-product-showcase
 
 - To install Dependencies
@@ -87,7 +80,6 @@ npm install
 - Build for Production
 npm run build
 
----
 
 ## 🌐 Live Demo
 
