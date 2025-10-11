@@ -58,8 +58,6 @@ This is a fully responsive, scroll-driven 3D product showcase website inspired b
 - ⚡️ Fast performance with Vite + code splitting
 - 🧩 Modular, scalable React component structure
 
----
-
 ## 🔍 Preview
 
 <!-- ![Scroll Animation](./public/scroll-preview.jpg)
@@ -69,15 +67,15 @@ This is a fully responsive, scroll-driven 3D product showcase website inspired b
 
 ### 1. Clone the Repository
 git clone https://github.com/gideonabe/macbook_gsap_landing
-cd 3d-product-showcase
+cd macbook_gsap_landing
 
-- To install Dependencies
+### 2. To install Dependencies
 npm install
 
-- To start development server
+### 3. Start development server
 npm install
 
-- Build for Production
+### 4. Build for Production
 npm run build
 
 
@@ -85,8 +83,6 @@ npm run build
 
 🚀 **[View the Live Site](https://macbook-gsap.vercel.app/)**  
 > Best experienced on desktop with modern browsers
-
----
 
 ## 🙏 Credits
 
